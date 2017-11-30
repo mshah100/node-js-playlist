@@ -1,0 +1,24 @@
+{
+  "name": "js-playlist",
+  "version": "1.0.0",
+  "description": "CSS and asset files for the Net Ninja YouTube nodejs playlist",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mshah100/node-js-playlist.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Monisha Shah Test (Shaun's code)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshah100/node-js-playlist/issues"
+  },
+  "homepage": "https://github.com/mshah100/node-js-playlist#readme"
+}
